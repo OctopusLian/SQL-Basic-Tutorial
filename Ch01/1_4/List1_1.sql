@@ -1,1 +1,1 @@
-CREATE DATABASE Shop;
+CREATE DATABASE Shop;  --创建shop数据库

@@ -1,1 +1,1 @@
-ALTER TABLE Shohin DROP COLUMN shohin_mei_kana;
+ALTER TABLE Shohin DROP COLUMN shohin_mei_kana;  --删除Shohin表中的shohin_mei_kana列

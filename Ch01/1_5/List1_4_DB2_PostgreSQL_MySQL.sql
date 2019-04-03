@@ -1,1 +1,1 @@
-ALTER TABLE Shohin ADD COLUMN shohin_mei_kana VARCHAR(100);
+ALTER TABLE Shohin ADD COLUMN shohin_mei_kana VARCHAR(100);  --往Shohin表中添加一列字段shohin_mei_kana，类型为可变的字符串，长度为100以内

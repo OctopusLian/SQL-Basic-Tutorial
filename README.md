@@ -3,7 +3,7 @@
 
 ## 运行环境  
 - Ubuntu desktop 18.04  
-- psql 10.6  
+- mysql  Ver 14.14 Distrib 5.7.25, for Linux (x86_64)  
 
 ## 目录结构  
 ```
